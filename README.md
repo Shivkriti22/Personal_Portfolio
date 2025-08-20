@@ -15,20 +15,15 @@ Live Demo: [Portfolio on Vercel](#) (replace `#` with your link once deployed)
 - Contact section
 
 ## 🛠️ Tech Stack
-- **HTM             L5**
+- **HTML5**
 - **CSS3**
 - **JavaScript**
 
 ## 📂 Project Structure
 Portfolio/
-## 📂 Project Structure
-
-Portfolio/
-├── index.html           # Main HTML file (homepage)
-├── style.css            # Stylesheet for design
-├── script.js            # JavaScript for interactivity
-├── portfolio_img.jpeg   # Portfolio image
-├── Prof photo.jpeg      # Profile photo
+├── index.html           # Main HTML file (homepage)  
+├── style.css            # Stylesheet for design  
+├── script.js            # JavaScript for interactivity  
+├── portfolio_img.jpeg   # Portfolio image  
+├── Prof photo.jpeg      # Profile photo  
 └── README.md            # Documentation file
-
-
